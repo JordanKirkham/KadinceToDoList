@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/KadinceToDoList/static/css/main.541a18df.chunk.css",
+    "main.js": "/KadinceToDoList/static/js/main.5dae965f.chunk.js",
+    "main.js.map": "/KadinceToDoList/static/js/main.5dae965f.chunk.js.map",
+    "runtime-main.js": "/KadinceToDoList/static/js/runtime-main.f7490e38.js",
+    "runtime-main.js.map": "/KadinceToDoList/static/js/runtime-main.f7490e38.js.map",
+    "static/js/2.0977bcae.chunk.js": "/KadinceToDoList/static/js/2.0977bcae.chunk.js",
+    "static/js/2.0977bcae.chunk.js.map": "/KadinceToDoList/static/js/2.0977bcae.chunk.js.map",
+    "index.html": "/KadinceToDoList/index.html",
+    "static/css/main.541a18df.chunk.css.map": "/KadinceToDoList/static/css/main.541a18df.chunk.css.map",
+    "static/js/2.0977bcae.chunk.js.LICENSE.txt": "/KadinceToDoList/static/js/2.0977bcae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7490e38.js",
+    "static/js/2.0977bcae.chunk.js",
+    "static/css/main.541a18df.chunk.css",
+    "static/js/main.5dae965f.chunk.js"
+  ]
+}
