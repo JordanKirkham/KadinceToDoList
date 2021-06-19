@@ -1,4 +1,6 @@
-// Imports
+      // IMPORTS
+
+import './App.css';
 import EntryForm from './Components/EntryForm';
 import Sort from './Components/Sort';
 import SelectedList from './Components/SelectedList';
@@ -137,9 +139,12 @@ function App() {
       <h1>
         To-Do List
       </h1>
+      <h3>
+        By Jordan Kirkham
+      </h3>
     </header>
-    <div>
-      <EntryFormds
+    <div className='allForm'>
+      <EntryForm
         newItem={newItem}
         handleChange={handleChange}
         handleSubmit={handleSubmit}
